@@ -1,0 +1,4 @@
+ERROR : Invalid jdbc url
+INFO  : Connecting to mysql
+WARN  : Using older mysql connector
+DEBUG : Successfully connected to mysql
